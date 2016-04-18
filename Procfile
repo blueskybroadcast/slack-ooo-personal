@@ -1,1 +1,1 @@
-web: app_port=$PORT node app.js
+web: node app.js
